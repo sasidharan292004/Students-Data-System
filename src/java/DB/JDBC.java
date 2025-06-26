@@ -12,8 +12,8 @@ import java.sql.*;
  */
 public class JDBC {
     private static final String URL = "jdbc:sqlserver://localhost:1433;databaseName=SMS_Web;trustServerCertificate=true";
-      private static final String USER = "SASIDHARAN-S";
-        private static final String PASSWORD = "sasi";
+      private static final String USER = "your_userName";
+        private static final String PASSWORD = "your_password";
         
         public static Connection con() throws SQLException , ClassNotFoundException
         {
