@@ -1,6 +1,6 @@
 # Students Data System
 
-A Java-based desktop application designed to manage and organize student data using a user-friendly GUI and MySQL backend. This system provides essential CRUD functionalities and is suitable for school or college-level data management.
+A Java-based web application designed to manage and organize student data using a user-friendly GUI and MySQL backend. This system provides essential CRUD functionalities and is suitable for school or college-level data management.
 
 ## 🔗 GitHub Repository
 
